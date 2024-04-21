@@ -10,10 +10,10 @@ Then went into private tutoring for the last 2 year.
 And have tutored over a dozen students.
 
 [[./Mathematics|Math]]
-[[Physics|Physics]]
+[[../../Physics|Physics]]
 
 ## [[./School Resources|School Resources]]
-## [[My View on Tutoring|My View on Tutoring]]
+## [[../../My View on Tutoring|My View on Tutoring]]
 
 ## What is My Set Up?
 

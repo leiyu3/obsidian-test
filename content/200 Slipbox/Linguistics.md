@@ -35,7 +35,7 @@ Job Prospect
 
 
 [[./Eggcorn|Eggcorn]]
-[[Learning Languages|Learning Languages]]
+[[../../Learning Languages|Learning Languages]]
 
 
 Register of a text refers to the formality of a text
