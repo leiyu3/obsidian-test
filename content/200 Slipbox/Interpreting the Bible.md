@@ -6,7 +6,7 @@ publish: true
 ---
 
 ## The Need to Interpret the Bible
-![[The Need to Interpret The Bible|The Need to Interpret]]
+![[../../The Need to Interpret The Bible|The Need to Interpret]]
 
 
 ## The Aim of Interpretation
