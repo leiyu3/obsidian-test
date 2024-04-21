@@ -7,19 +7,19 @@ publish: true
 Majority of the New Testaments are Epistles. And majority of it are written by Paul.
 With a few written by James, John, Peter, and Hebrew having an unknown author.
 
-The Western Church really like Epistles since they have an Essay style of writing, specifically [[../../Romans Overview|Romans]]. The style of writing makes it easier to read than most of the writing in the Old Testament (Prophecy, Wisdom, Poetry, Narative). However, there are still some tricky passages in the Epistles that makes interpretation not so simple.
+The Western Church really like Epistles since they have an Essay style of writing, specifically [Romans](../../Romans%20Overview.md). The style of writing makes it easier to read than most of the writing in the Old Testament (Prophecy, Wisdom, Poetry, Narative). However, there are still some tricky passages in the Epistles that makes interpretation not so simple.
 
 Epistles are **Occasional Documents**. They are theology written with a particular need.
 
 ## Books of the Epistle Genre
 ...
-[[../../Romans Overview|Romans]]
-[[Hebrews Overview|Hebrews]]
-[[../../Ephesians Overview|Ephesians]]
+[Romans](../../Romans%20Overview.md)
+[Hebrews](Hebrews%20Overview.md)
+[Ephesians](../../Ephesians%20Overview.md)
 
-[[../../Jude Overview|Jude Overview]]
-[[../../Philemon Overview|Philemon Overview]]
-[[../../1 Peter Overview|1 Peter Overview]]
+[Jude Overview](../../Jude%20Overview.md)
+[Philemon Overview](../../Philemon%20Overview.md)
+[1 Peter Overview](../../1%20Peter%20Overview.md)
 ...
 
 ## Form
@@ -55,7 +55,7 @@ Despite doing all those above there will come passages where we just don't know 
 2. Using a good commentary
 3. Humility: We don't know everything
 
-## [[./Hermeneutics|Hermeneutics]] Tips 
+## [Hermeneutics](./Hermeneutics.md) Tips 
 - A text can not mean what it never could have meant to the writer and its reader
 - For particulars that are comparable (i.e. similar specific life situation), God's Word to us is the same as God's Word to them
 
@@ -85,7 +85,7 @@ This is a tricky part, not exact rules, but guidelines.
 3. Christian Charity
 	- recognize that there are difficulties
 
-### The Problem of [[../../Task Theology|Task Theology]]
+### The Problem of [Task Theology](../../Task%20Theology.md)
 - Sometimes we just don't know enough. Humility and being content.
 	- God gives us what we need, and not what we want
 - The text is trying to answer a different set of questions than ours
