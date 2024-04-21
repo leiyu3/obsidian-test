@@ -135,7 +135,7 @@ The CGCSM website uses WordPress, where a table can be edited using HTML. Theref
 ### Creating the Table in Google Sheet
 Import the CSV file into Google Sheet. Create a new sheet and fill in the header of the table.
 
-Then fill in the first row with the formulas as shown in the figure below. Change `data` to the name of the sheet containing your CSV data. This will take the data from the CSV file and fill it into the new table. The formula `=HYPERLINK(link, label)` creates a hyperlinks given the label and link. 
+Then fill in the first row with the formulas as shown in the figure below. Change `data` to the name of the sheet containing your CSV data. This will take the data from the CSV file and fill it into the new table. The formula  creates a hyperlinks given the label and link. 
 
 
 Select the first row and drag the blue square on the bottom right down until all of the rows are filled in.
