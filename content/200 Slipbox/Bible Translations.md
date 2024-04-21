@@ -83,13 +83,13 @@ Wayne Grudem, J.I. Packer
 - more commentary than translation
 - done by one guy
 
-[[./The Science of Translation|The Science of Translation]]
+[The Science of Translation](./The%20Science%20of%20Translation.md)
 
 
 ## Resource 
 - https://www.youtube.com/watch?v=Zvre1MNat-8
 - https://www.youtube.com/watch?v=ne40DYcPlnk
-- [[./How to Read the Bible for All Its Worth by Gorden D. Fee#2. The Basic Tool A Good Translation|How to Read the Bible for All Its Worth by Gorden D. Fee > 2. The Basic Tool A Good Translation]]
+- [How to Read the Bible for All Its Worth by Gorden D. Fee > 2. The Basic Tool A Good Translation](./How%20to%20Read%20the%20Bible%20for%20All%20Its%20Worth%20by%20Gorden%20D.%20Fee.md#2.%20The%20Basic%20Tool%20A%20Good%20Translation)
 - https://bible-researcher.com/versions.html
 - https://www.thegospelcoalition.org/article/nrsv-compromise-homosexuality/
 - [ESV vs. NRSV: Why the appropriate niche of the NRSV is the secular university](https://ancienthebrewpoetry.typepad.com/ancient_hebrew_poetry/2009/06/esv-vs-nrsv-why-the-appropriate-niche-of-the-nrsv-is-the-secular-university.html)
