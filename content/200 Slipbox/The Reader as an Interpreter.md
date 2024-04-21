@@ -25,4 +25,4 @@ publish: true
     * Baptism by immersion, others make biblical case for infant baptism
     * "eternal security" and "losing one's salvation"
 
-- [[../../How Cults Form|Cults]] form my misinterpreting Scripture
+- [Cults](../../How%20Cults%20Form.md) form my misinterpreting Scripture
