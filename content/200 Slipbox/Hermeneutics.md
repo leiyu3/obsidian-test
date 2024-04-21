@@ -13,7 +13,7 @@ Hermeneutics seeks the contemporary relevance of ancient texts; the here and now
 * Problems are text that are in the grey area and our lack of consistency
 	* We bring our biases to the text
 
-We don't want to start with the here and now until we got [[./Exegesis|good exegesis]] because the proper control for hermeneutics is found in the original intent of the biblical text.
+We don't want to start with the here and now until we got [good exegesis](./Exegesis.md) because the proper control for hermeneutics is found in the original intent of the biblical text.
 
 * this keep people from interpreting the text wrong
     * such as the Mormon's baptizing of the dead based on 1 Corinthians 15:29
