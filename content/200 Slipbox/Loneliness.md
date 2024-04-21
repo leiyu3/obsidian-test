@@ -20,7 +20,7 @@ There is a loneliness epidemic. More people are becoming more and more lonely.
 | High | - Excitement<br> | - Anxiety<br>- Anger<br> |
 | Low | - Rest<br>- Peace | - Sadness<br>- Dullness |
 
-## [[Be Alone with God|Solitude]]
+## [[../../Be Alone with God|Solitude]]
 Choosing to be by yourself. Have advantage of brining high arousal emotions to low arousal emotions. You also get to know yourself better, thus ending up better engaging in social activities. 
 
 
