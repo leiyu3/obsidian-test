@@ -7,7 +7,7 @@ publish: true
 ---
 
 Displays the **five number summary** of a set of data.
-![[../attachments/Box and Whisker Plot-20240320155053286.webp|Box and Whisker Plot-20240320155053286.webp]]
+![Box and Whisker Plot-20240320155053286.webp](../attachments/Box%20and%20Whisker%20Plot-20240320155053286.webp)
 
 - The Five Number Summary
 	- Min
