@@ -8,7 +8,7 @@ The study of the mind and human behavior.
 
 I get most of my ideas about Psychology from HealthyGamerGG
 
-[[../../Charisma|Charisma]]
-[[../../Coping Mechanisms|Coping Mechanisms]]
-[[./Loneliness|Loneliness]]
-[[../../Comparison Game|Comparison Game]]
+[Charisma](../../Charisma.md)
+[Coping Mechanisms](../../Coping%20Mechanisms.md)
+[Loneliness](./Loneliness.md)
+[Comparison Game](../../Comparison%20Game.md)
