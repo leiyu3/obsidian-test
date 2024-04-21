@@ -4,7 +4,7 @@ aliases:
   - Recipes
 publish: true
 ---
-- [[./Cream Puff|Cream Puff]]
-- [[./Ice Tea Recipe|Ice Tea]]
-- [[./No Bake Oreo Cheese Cake|No Bake Oreo Cheese Cake]]
-- [[./Maki Rolls|Maki Rolls]]
+- [Cream Puff](./Cream%20Puff.md)
+- [Ice Tea](./Ice%20Tea%20Recipe.md)
+- [No Bake Oreo Cheese Cake](./No%20Bake%20Oreo%20Cheese%20Cake.md)
+- [Maki Rolls](./Maki%20Rolls.md)
