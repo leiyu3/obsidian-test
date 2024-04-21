@@ -35,8 +35,8 @@ title: Discipline of a Godly Man
 - In the attempt to cover up our sins, we end up committing even more sin (Degeneration).
 
 What can we do to grow in purity?
-- [[Discipline of a Godly Man by R. Ken Hughs#6 Discipline of Mind|Discipline of Mind]]
-- [[Discipline of a Godly Man by R. Ken Hughs#8 Discipline of Prayer|Discipline of Prayer]]
+- [Discipline of Mind](Discipline%20of%20a%20Godly%20Man%20by%20R.%20Ken%20Hughs.md#6%20Discipline%20of%20Mind)
+- [Discipline of Prayer](Discipline%20of%20a%20Godly%20Man%20by%20R.%20Ken%20Hughs.md#8%20Discipline%20of%20Prayer)
 - Discipline of Memorization
 - Discipline of Accountability
 - Discipline of Boundaries
@@ -725,7 +725,7 @@ We need to be full of the Spirit. Or give off the aroma of Christ (Eph. 5:17-20)
 - asking the Spirit to fill us
 
 ##### Expendability
-[[../../Deut 34|Deuteronomy 34]]
+[Deuteronomy 34](../../Deut%2034.md)
 
 **Moses was the greater spiritual leader Israel had. But even still God didn't need Moses. Even Moses was expendable.**
 
