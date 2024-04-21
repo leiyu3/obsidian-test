@@ -8,13 +8,13 @@ publish: true
 ## Intro
 If you want to understand what Christians believe and I mean what true Christians believe. And you have heard of the word 'Gospel' and have no idea what it means. Then I welcome you to sit with me and read this article that I have wrote.
 
-[[Christian|Christian]], in its name, is about Christ. The person, work, and promise of Christ. Christian believes Jesus Christ to be the Son of God, who is the promised Messiah that God have promised long ago. He have lived, preached, died, and rose again. As written in the Bible.
+[[../../Christian|Christian]], in its name, is about Christ. The person, work, and promise of Christ. Christian believes Jesus Christ to be the Son of God, who is the promised Messiah that God have promised long ago. He have lived, preached, died, and rose again. As written in the Bible.
 
 The Gospel, is derived from Greek the word 'Ευαγγέλιο' (pronounced euangelion). Which means "good news". Christians have a very good news to share. You can read about the Gospel from the Bible found in Matthew, Luke, Mark, and John. But references to the gospel and Jesus can be found all through out the Bible.
 
 To understand the Gospel is to understand who Jesus is, what He has done, and what He promised to do. And to do that you would also need to understand who God is.
 
-## 1. [[Who is God|Who is God?]]
+## 1. [[../../Who is God|Who is God?]]
 God is Holy.
 God is Just.
 God is Creator.
@@ -24,11 +24,11 @@ God is Creator.
 Man is sinful.
 
 [[Roman's Road|Roman's Road]]
-[[Sin|Sin]]
+[[../../Sin|Sin]]
 
-[[All Have Sinned|All Have Sinned]]
+[[../../All Have Sinned|All Have Sinned]]
 
-[[What Is The Consequence of Sin|What Is The Consequence of Sin]]
+[[../../What Is The Consequence of Sin|What Is The Consequence of Sin]]
 
 John 3:16 "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.  
 
@@ -86,7 +86,7 @@ https://www.youtube.com/watch?v=zqXrhr3NshI
 - The scripture will defend itself
 
 
-[[The Pre-Gospel|The Pre-Gospel]]
+[[../../The Pre-Gospel|The Pre-Gospel]]
 
 
-[[Three Responses to the Gospel|Three Responses to the Gospel]]
+[[../../Three Responses to the Gospel|Three Responses to the Gospel]]
