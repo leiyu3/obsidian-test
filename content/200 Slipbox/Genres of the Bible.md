@@ -8,9 +8,9 @@ publish: true
 There are different genres in the Bible. Different genres have different rule on how we should read them.
 
 - Narative
-- [[Wisdom Literature|Wisdom Literature]]
+- [[../../Wisdom Literature|Wisdom Literature]]
 - Poetry
 - Prophecy
 - [[./Epistles|Epistles (Letters)]]
 - [[./The Gospel|The Gospel]]
-	- [[Parables|Parables]]
+	- [[../../Parables|Parables]]
