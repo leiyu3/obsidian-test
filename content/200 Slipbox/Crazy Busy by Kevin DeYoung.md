@@ -13,7 +13,7 @@ title: Crazy Buzy
 ---
 
 ## Hello My Name is Busy
-- *The Busy Christian's Guide to Busyness* , Tim Chester "[[Hurry Sickness|Hurry Sickness]]"
+- *The Busy Christian's Guide to Busyness* , Tim Chester "[[../../Hurry Sickness|Hurry Sickness]]"
 - Here, there and everywhere (1 King 20:40), but also no where
 - In the modern age, we have way much more complexity and opportunity available to us than any other age.
 	- Complexity:
@@ -24,7 +24,7 @@ title: Crazy Buzy
 - Busyness can ruin our joy
 	- Set margins in our life
 	- busyness is like sin; kill it or it will be killing you
-- Busyness can rob our heart [[Parable of the Soil|Parable of the Soil]]
+- Busyness can rob our heart [[../../Parable of the Soil|Parable of the Soil]]
 	- worries of life, and things
 - Busyness can cover up the rot in our souls
 	- busyness as a way to cover up deeper heart problems
@@ -78,10 +78,10 @@ title: Crazy Buzy
 
 ## Mission Creep
 - Jesus was extremely busy, but not sinful
-- urgent vs import [[Eisenhower Matrix|Eisenhower Matrix]]
+- urgent vs import [[../../Eisenhower Matrix|Eisenhower Matrix]]
 - What is your priority? What is important to you? [[Focus|Focus]]
 1. I must set priorities because I can't do them all
-	- [[The Myth of Multitasking|The Myth of Multitasking]]
+	- [[../../The Myth of Multitasking|The Myth of Multitasking]]
 2. I must set priorities if I am to serve other most effectively
 	- Having less on our plate allows us to give more effort to the few things we intent to do
 	- "Setting things we will not do, until everything else is done"
@@ -100,17 +100,17 @@ title: Crazy Buzy
 - [[God's Sovereignty|God's Sovereignty]], We will parent imperfectly, our children will make their own choices and God will use all that for His glory
 
 ## Deep Call to Deep
-- [[New Innovation New Problems|New Innovation New Problems]]
-- [[Technology|Technology]]
+- [[../../New Innovation New Problems|New Innovation New Problems]]
+- [[../../Technology|Technology]]
 - Dangers:
 	- Addiction
-		- [[The Shallows by Nicholas G. Carr|The Shallows by Nicholas G. Carr]]
+		- [[../../The Shallows by Nicholas G. Carr|The Shallows by Nicholas G. Carr]]
 		- 2 Peter 2:19
 	- Slothfulness (Acedia)
 		- apathetic passing of time
 	- We are never alone (no alone time)
 		- our desire to be not alone (always connected)
-			- to distract us from ourselves [[Be Alone with God|Solitude]]
+			- to distract us from ourselves [[../../Be Alone with God|Solitude]]
 		- maybe mental health is God's megaphone? [[Pain|Pain]]
 - Cultivate a healthy suspicion toward technology and progress
 - Be more thoughtful and understanding in your connectedness with others
@@ -125,11 +125,11 @@ title: Crazy Buzy
 
 ## Rhythm Blue
 - "You'd better rest yourself before you wreck yourself!"
-- [[Sabbath Rest|Sabbath]] was made for man
+- [[../../Sabbath Rest|Sabbath]] was made for man
 - we should rest in God alone for our salvation
 - the Sabbath as a test for us to trust in His work rather than ours
 - Both work and rest are good, just need to put them in their place.
-- [[Theology of Work|Theology of Work]]
+- [[../../Theology of Work|Theology of Work]]
 	- Prov. 6:6-11, Matthew 25:14-30, 1 Thess. 20:9; 4:11-12; 2 Thess. 3:10)
 - [[Theology of Rest|Theology of Rest]]
 	- Ex. 20:8-11, Deut 5:12-15; Psalm 127:2
@@ -142,7 +142,7 @@ title: Crazy Buzy
 
 ## Embracing the Burden of Business
 - the reason we are busy is because we are suppose to be busy
-	- But we are to [[The Ruthless Elimination of Hurry by John Mark Comer|Eliminate Hurry]]
+	- But we are to [[../../The Ruthless Elimination of Hurry by John Mark Comer|Eliminate Hurry]]
 	- busy working on the wrong things
 - We are suppose to struggle, not in heaven yet [[Pain|Pain]]
 - Expect to suffer when you are committed to serving people
