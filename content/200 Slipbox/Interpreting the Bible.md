@@ -6,7 +6,7 @@ publish: true
 ---
 
 ## The Need to Interpret the Bible
-![[../../The Need to Interpret The Bible|The Need to Interpret]]
+![The Need to Interpret](../../The%20Need%20to%20Interpret%20The%20Bible.md)
 
 
 ## The Aim of Interpretation
@@ -15,4 +15,4 @@ publish: true
 * Looking for uniqueness in interpretation can be pointed to pride, or a false sense of spirituality, or vested interest
     * unique interpretation are often wrong
     * uniqueness is not the aim of interpretation
-* however due to the [[./The Reader as an Interpreter|nature of the reader]] and the [[./The Nature of Scripture|nature of Scripture]] one can  not just read the bible to get the plain meaning
+* however due to the [nature of the reader](./The%20Reader%20as%20an%20Interpreter.md) and the [nature of Scripture](./The%20Nature%20of%20Scripture.md) one can  not just read the bible to get the plain meaning
