@@ -4,7 +4,7 @@ aliases:
 title: Quadrilaterals
 publish: true
 ---
-Quadrilaterals are [[../../Polygons|Polygons]] with four sides.
+Quadrilaterals are [Polygons](../../Polygons.md) with four sides.
 
 ## Types of Quadrilaterals
 - Square
