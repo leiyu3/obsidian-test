@@ -8,7 +8,7 @@ publish: true
 ## Problem of Text
 When translating we want to have the most original writing as possible. Problem is, we don't have the original writing any more. We have thousands of copies.
 
-The OT, there are the Aramic language and [[../../Septuagint|The Septuagint]].
+The OT, there are the Aramic language and [The Septuagint](../../Septuagint.md).
 
 Most the New Testament writings/copies are from the dead sea scrolls.
 
