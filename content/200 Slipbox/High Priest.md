@@ -7,7 +7,7 @@ publish: true
 
 
 #question What is the High Priest?
-The High Priest was introduced in the [[Mosaic Covenant|Mosaic Covenant]].
+The High Priest was introduced in the [[../../Mosaic Covenant|Mosaic Covenant]].
 They have the responsibility of representing Israelite before God, as a mediator.
 
 
@@ -24,10 +24,10 @@ Minister from man back to God. One who intercedes for Israel.
 
 ## The Priesthood after the Order of Melchizedek
 
-> [!QUOTE] [[Ps 110#4|Ps 110:4]]
+> [!QUOTE] [[../../Ps 110#4|Ps 110:4]]
 > $^{4}$ The LORD has sworn and will not change his mind, "You are a priest forever after the order of Melchizedek."  
 
-> [!QUOTE] [[Heb 7#20|Heb 7:20-21]]
+> [!QUOTE] [[../../Heb 7#20|Heb 7:20-21]]
 > $^{20}$ And it was not without an oath. For those who formerly became priests were made such without an oath,  $^{21}$ but this one was made a priest with an oath by the one who said to him: "The Lord has sworn and will not change his mind, 'You are a priest forever.'"  
 
 - Jesus is a high priest after the order of Melchizedek.
