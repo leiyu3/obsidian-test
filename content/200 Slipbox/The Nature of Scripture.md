@@ -5,7 +5,7 @@ title: The Nature of Scripture
 publish: true
 ---
 
-The Bible is at the same time **both** human and divine ([[../../Jesus|Jesus?]])
+The Bible is at the same time **both** human and divine ([Jesus?](../../Jesus.md))
 
 > [!Quote]
 > "The Bible is the Word of God given in the words of people in history." 
@@ -24,5 +24,5 @@ The Bible is at the same time **both** human and divine ([[../../Jesus|Jesus?]])
 ## What that means for Interpreting Scripture
 1. the Bible was first written to the people at that time 
    * the challenge is that we are so far removed from the culture and language of that time
-   * to first understand how the bible apply to us, [[./Exegesis|we first need to know what it meant to the original hearers]]
-2. God chose to use [[./Genres of the Bible|different genre of literature]] to speak to us, therefore we need to know how to read the different genre of texts
+   * to first understand how the bible apply to us, [we first need to know what it meant to the original hearers](./Exegesis.md)
+2. God chose to use [different genre of literature](./Genres%20of%20the%20Bible.md) to speak to us, therefore we need to know how to read the different genre of texts

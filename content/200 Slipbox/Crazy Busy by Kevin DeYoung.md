@@ -7,13 +7,13 @@ tags:
   - book
 publish: true
 recommended-by:
-  - "[[Jason Kim|Jason Kim]]"
+  - "[Jason Kim](Jason%20Kim.md)"
 date_started: 2024-02-05
 title: Crazy Buzy
 ---
 
 ## Hello My Name is Busy
-- *The Busy Christian's Guide to Busyness* , Tim Chester "[[../../Hurry Sickness|Hurry Sickness]]"
+- *The Busy Christian's Guide to Busyness* , Tim Chester "[Hurry Sickness](../../Hurry%20Sickness.md)"
 - Here, there and everywhere (1 King 20:40), but also no where
 - In the modern age, we have way much more complexity and opportunity available to us than any other age.
 	- Complexity:
@@ -24,14 +24,14 @@ title: Crazy Buzy
 - Busyness can ruin our joy
 	- Set margins in our life
 	- busyness is like sin; kill it or it will be killing you
-- Busyness can rob our heart [[../../Parable of the Soil|Parable of the Soil]]
+- Busyness can rob our heart [Parable of the Soil](../../Parable%20of%20the%20Soil.md)
 	- worries of life, and things
 - Busyness can cover up the rot in our souls
 	- busyness as a way to cover up deeper heart problems
 
 ## The Killer P's
 - Something is not right with us
-- [[./Mere Christianity by C.S. Lewis#8. The Great Sin||Mere Christianity on Pride]]
+- [|Mere Christianity on Pride](./Mere%20Christianity%20by%20C.S.%20Lewis.md#8.%20The%20Great%20Sin)
 - People Pleasing: doing things in order to be loved by other (out of fear), than to simply serve others
 	- afraid of saying "No"
 - Pats on the back: receiving praise from others
@@ -53,7 +53,7 @@ title: Crazy Buzy
 	- is perfectionism wrong? should we not strive for excellence?
 	- should we ignore cultural expectations?
 	- does that mean we should never think about others?
-- All those P vices can be turned into virtues with a minor tweak [[Total Depravity|Total Depravity]]
+- All those P vices can be turned into virtues with a minor tweak [Total Depravity](Total%20Depravity.md)
 
 - Self diagnosis question:
 	- "**Am I trying to do good or trying to make myself look good?**"
@@ -78,10 +78,10 @@ title: Crazy Buzy
 
 ## Mission Creep
 - Jesus was extremely busy, but not sinful
-- urgent vs import [[../../Eisenhower Matrix|Eisenhower Matrix]]
-- What is your priority? What is important to you? [[Focus|Focus]]
+- urgent vs import [Eisenhower Matrix](../../Eisenhower%20Matrix.md)
+- What is your priority? What is important to you? [Focus](Focus.md)
 1. I must set priorities because I can't do them all
-	- [[../../The Myth of Multitasking|The Myth of Multitasking]]
+	- [The Myth of Multitasking](../../The%20Myth%20of%20Multitasking.md)
 2. I must set priorities if I am to serve other most effectively
 	- Having less on our plate allows us to give more effort to the few things we intent to do
 	- "Setting things we will not do, until everything else is done"
@@ -97,21 +97,21 @@ title: Crazy Buzy
 - Parenting seems to do less in affecting the child's well being, especially in the long term. Nature > Nurture
 - but it does affect how the children experience their childhood
 	- Parent's are giving their child secondhand stress
-- [[God's Sovereignty|God's Sovereignty]], We will parent imperfectly, our children will make their own choices and God will use all that for His glory
+- [God's Sovereignty](God's%20Sovereignty.md), We will parent imperfectly, our children will make their own choices and God will use all that for His glory
 
 ## Deep Call to Deep
-- [[../../New Innovation New Problems|New Innovation New Problems]]
-- [[../../Technology|Technology]]
+- [New Innovation New Problems](../../New%20Innovation%20New%20Problems.md)
+- [Technology](../../Technology.md)
 - Dangers:
 	- Addiction
-		- [[../../The Shallows by Nicholas G. Carr|The Shallows by Nicholas G. Carr]]
+		- [The Shallows by Nicholas G. Carr](../../The%20Shallows%20by%20Nicholas%20G.%20Carr.md)
 		- 2 Peter 2:19
 	- Slothfulness (Acedia)
 		- apathetic passing of time
 	- We are never alone (no alone time)
 		- our desire to be not alone (always connected)
-			- to distract us from ourselves [[../../Be Alone with God|Solitude]]
-		- maybe mental health is God's megaphone? [[Pain|Pain]]
+			- to distract us from ourselves [Solitude](../../Be%20Alone%20with%20God.md)
+		- maybe mental health is God's megaphone? [Pain](Pain.md)
 - Cultivate a healthy suspicion toward technology and progress
 - Be more thoughtful and understanding in your connectedness with others
 	- allow others time to reply
@@ -125,13 +125,13 @@ title: Crazy Buzy
 
 ## Rhythm Blue
 - "You'd better rest yourself before you wreck yourself!"
-- [[../../Sabbath Rest|Sabbath]] was made for man
+- [Sabbath](../../Sabbath%20Rest.md) was made for man
 - we should rest in God alone for our salvation
 - the Sabbath as a test for us to trust in His work rather than ours
 - Both work and rest are good, just need to put them in their place.
-- [[../../Theology of Work|Theology of Work]]
+- [Theology of Work](../../Theology%20of%20Work.md)
 	- Prov. 6:6-11, Matthew 25:14-30, 1 Thess. 20:9; 4:11-12; 2 Thess. 3:10)
-- [[Theology of Rest|Theology of Rest]]
+- [Theology of Rest](Theology%20of%20Rest.md)
 	- Ex. 20:8-11, Deut 5:12-15; Psalm 127:2
 - We started to mix work and rest together. How do we put them in the proper place?
 - Psalm 127:2, God gives his beloved Sleep
@@ -142,9 +142,9 @@ title: Crazy Buzy
 
 ## Embracing the Burden of Business
 - the reason we are busy is because we are suppose to be busy
-	- But we are to [[../../The Ruthless Elimination of Hurry by John Mark Comer|Eliminate Hurry]]
+	- But we are to [Eliminate Hurry](../../The%20Ruthless%20Elimination%20of%20Hurry%20by%20John%20Mark%20Comer.md)
 	- busy working on the wrong things
-- We are suppose to struggle, not in heaven yet [[Pain|Pain]]
+- We are suppose to struggle, not in heaven yet [Pain](Pain.md)
 - Expect to suffer when you are committed to serving people
 - 2 Cor. 11:28
 - Response to the burden:

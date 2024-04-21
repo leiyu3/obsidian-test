@@ -24,7 +24,7 @@ Job Prospect
 	- Learn to speak
 	- Helping adult who had a stroke how to speak
 	- Graduate Degree
-- [[Natural Language Processing|NLP]], other computer science things
+- [NLP](Natural%20Language%20Processing.md), other computer science things
 	- SIRI
 	- Amazon Alexa
 	- Google Search Engine (Query)
@@ -34,8 +34,8 @@ Job Prospect
 - Academia
 
 
-[[./Eggcorn|Eggcorn]]
-[[../../Learning Languages|Learning Languages]]
+[Eggcorn](./Eggcorn.md)
+[Learning Languages](../../Learning%20Languages.md)
 
 
 Register of a text refers to the formality of a text

@@ -9,14 +9,14 @@ tags:
 title: How to Read the Bible for All Its Worth
 ---
 ## 1. Introduction: The Need to Interpret
-- [[./Interpreting the Bible|Interpreting the Bible]]
-- [[./The Reader as an Interpreter|The Reader as an Interpreter]]
-- [[./The Nature of Scripture|The Nature of Scripture]]
-- [[./Exegesis|Exegesis]]
-- [[./Hermeneutics|Hermeneutics]]
+- [Interpreting the Bible](./Interpreting%20the%20Bible.md)
+- [The Reader as an Interpreter](./The%20Reader%20as%20an%20Interpreter.md)
+- [The Nature of Scripture](./The%20Nature%20of%20Scripture.md)
+- [Exegesis](./Exegesis.md)
+- [Hermeneutics](./Hermeneutics.md)
 
 ## 2. The Basic Tool: A Good Translation
-[[./Bible Translations|Bible Translations]]
+[Bible Translations](./Bible%20Translations.md)
 
 ### The Science of Translation
 * Textual: actually wording of the original text
@@ -35,7 +35,7 @@ title: How to Read the Bible for All Its Worth
 1. _Textual criticism is a science that works with careful controls_
     1. external evidence (character and quality of the manuscripts)
         * quality and age of the manuscript
-        * OT: choice between the Hebrew(more ancient) and Greek translation ([[../../Septuagint|The Septuagint]])
+        * OT: choice between the Hebrew(more ancient) and Greek translation ([The Septuagint](../../Septuagint.md))
         * NT: manuscript from Egypt
     2. internal evidence (the kinds of mistakes made by copyists)
 2. _Although textual criticism is a science, it is not an exact science, because it deals with too many human variables_
@@ -139,11 +139,11 @@ Form:
 ### The Basic Rule
 * **A Text cannot Mean what It never could have meant to its author or his or her readers**
 	* Helps limit what the text means
-	* Which is why we need to understand what the text says to it's original readers and authors through [[./Exegesis|Exegesis]]
+	* Which is why we need to understand what the text says to it's original readers and authors through [Exegesis](./Exegesis.md)
 
 ### The Second Rule
 * **Whenever we share comparable particulars (i.e., similar specific life situations) with the first-century setting, God's Word to us is the same as his Word to them**
-	* Which is why we need to understand the text well though [[./Exegesis|Exegesis]]
+	* Which is why we need to understand the text well though [Exegesis](./Exegesis.md)
 
 ### The Problem of Extended Application
 * God's word to us must be limited to it's original intent
@@ -211,12 +211,12 @@ Form:
 	    - communication, start by defining some principles
 	    - love and forgiveness
 
-- Example with [[../../Women as Teacher or Proclaimer of the Word|Women as Teacher or Proclaimer of the Word]]
+- Example with [Women as Teacher or Proclaimer of the Word](../../Women%20as%20Teacher%20or%20Proclaimer%20of%20the%20Word.md)
 
-- Example with [[../../Homosexuality|Homosexuality]]
+- Example with [Homosexuality](../../Homosexuality.md)
 
 
-### The Problem of [[../../Task Theology|Task Theology]]
+### The Problem of [Task Theology](../../Task%20Theology.md)
 1. We must be content at times with some limitations to our theological understanding
     * In Scripture God has given what we _need_ but not necessarily all that we _want_
     * 1 Corinthian 6:2-3
@@ -226,7 +226,7 @@ Form:
 2. Sometime the problem is that we want the text to answer questions that we ask, but the nature of the epistle is that it was aimed toward their questions
     * e.g. abortion, remarriage, infant baptism      
     * to speak on such topics we need to use the basis of the **whole biblical theology**
-    * No [[../../Proof Texting|Proof Texting]]
+    * No [Proof Texting](../../Proof%20Texting.md)
 	- 1 Corinthians 7:1-16
 		- v12, (I, not the Lord). Paul is speaking on something that Jesus hasn't spoken on, Divorce between believer and believers.
 			- Paul had apostalic authority, but we don't have it
@@ -826,7 +826,7 @@ Form:
     * royal psalms (2, 18, 20, 21, 45, 72, 101, 110, 144)
         * royal thanks giving (18)
         * royal lament (144)
-        * [[../../Enthronement Psalm|Enthronement Psalm]] 
+        * [Enthronement Psalm](../../Enthronement%20Psalm.md) 
     * songs of zion or songs of the city of Jerusalem (46, 48, 76, 84, 87, 122)
 6. Wisdom psalms (36, 37, 49, 73, 112, 127, 128, 133)
 7. Songs of Trust (11, 16, 23, 27, 62, 63, 91, 121, 125, 131)

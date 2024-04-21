@@ -14,7 +14,7 @@ We are a stubborn people with hard hearts. But God still pursued us, and sometim
 1.  Remember what God has done for you.
 2.  Remember what you have done against God.
 
-God [[../../Agape Love|agapes]] us.
+God [agapes](../../Agape%20Love.md) us.
 
 Jesus is uniquely the One and Only Son of God. Jesus shares the same essence as God the Father. Christ claim Ultimate clout (pg. 46). The only way to God is Jesus.
 
@@ -41,7 +41,7 @@ Christ is the way. He doesn't just 'know' or 'show' the way, He is the way.
 Hell is real and Hell is eternal.
 
 
-> [!QUOTE] [[./Mere Christianity by C.S. Lewis|Mere Christianity by C.S. Lewis]]
+> [!QUOTE] [Mere Christianity by C.S. Lewis](./Mere%20Christianity%20by%20C.S.%20Lewis.md)
 > I willingly believe that the damed are, in one sense successful rebels to the end; that the door of Hell is locked on the inside.
 
 Heaven won't be boring. We will be changed! We'll never be tired, never be bored, all sin are gone, we will be in our prime, we will be our best selves.

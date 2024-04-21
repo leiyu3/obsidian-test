@@ -23,7 +23,7 @@ $$
 \frac{3}{2}\times\frac{4}{5}=\frac{12}{10}=\frac{6}{5}
 $$
 ## How to Divide Fractions
-To divide fractions, multiply the [[../../Reciprocal|Reciprocal]] of the second fraction. Then follow the step to multiply fractions. Remember to Simplify
+To divide fractions, multiply the [Reciprocal](../../Reciprocal.md) of the second fraction. Then follow the step to multiply fractions. Remember to Simplify
 
 $$
 \begin{align}

@@ -12,8 +12,8 @@ I am a Christian and I work as a RPA Developer.
 Born in Fujian, China. Now living in Ontario, Canada.
 
 ## Jump Off Points
-- [[./200 Slipbox/How To Study The Bible|How To Study The Bible]]
-- [[./200 Slipbox/Grade 10 Math|Grade 10 Math]]
+- [How To Study The Bible](./200%20Slipbox/How%20To%20Study%20The%20Bible.md)
+- [Grade 10 Math](./200%20Slipbox/Grade%2010%20Math.md)
 
 ## Projects
 - [MathRacer](https://leiyu3.github.io/mathracer/), web app built with JavaScript and Bootstrap to help elementary students practice their multiplication tables.

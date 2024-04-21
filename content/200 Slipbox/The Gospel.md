@@ -8,13 +8,13 @@ publish: true
 ## Intro
 If you want to understand what Christians believe and I mean what true Christians believe. And you have heard of the word 'Gospel' and have no idea what it means. Then I welcome you to sit with me and read this article that I have wrote.
 
-[[../../Christian|Christian]], in its name, is about Christ. The person, work, and promise of Christ. Christian believes Jesus Christ to be the Son of God, who is the promised Messiah that God have promised long ago. He have lived, preached, died, and rose again. As written in the Bible.
+[Christian](../../Christian.md), in its name, is about Christ. The person, work, and promise of Christ. Christian believes Jesus Christ to be the Son of God, who is the promised Messiah that God have promised long ago. He have lived, preached, died, and rose again. As written in the Bible.
 
 The Gospel, is derived from Greek the word 'Ευαγγέλιο' (pronounced euangelion). Which means "good news". Christians have a very good news to share. You can read about the Gospel from the Bible found in Matthew, Luke, Mark, and John. But references to the gospel and Jesus can be found all through out the Bible.
 
 To understand the Gospel is to understand who Jesus is, what He has done, and what He promised to do. And to do that you would also need to understand who God is.
 
-## 1. [[../../Who is God|Who is God?]]
+## 1. [Who is God?](../../Who%20is%20God.md)
 God is Holy.
 God is Just.
 God is Creator.
@@ -23,12 +23,12 @@ God is Creator.
 ## 2. The Problem of Sin
 Man is sinful.
 
-[[Roman's Road|Roman's Road]]
-[[../../Sin|Sin]]
+[Roman's Road](Roman's%20Road.md)
+[Sin](../../Sin.md)
 
-[[../../All Have Sinned|All Have Sinned]]
+[All Have Sinned](../../All%20Have%20Sinned.md)
 
-[[../../What Is The Consequence of Sin|What Is The Consequence of Sin]]
+[What Is The Consequence of Sin](../../What%20Is%20The%20Consequence%20of%20Sin.md)
 
 John 3:16 "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.  
 
@@ -86,7 +86,7 @@ https://www.youtube.com/watch?v=zqXrhr3NshI
 - The scripture will defend itself
 
 
-[[../../The Pre-Gospel|The Pre-Gospel]]
+[The Pre-Gospel](../../The%20Pre-Gospel.md)
 
 
-[[../../Three Responses to the Gospel|Three Responses to the Gospel]]
+[Three Responses to the Gospel](../../Three%20Responses%20to%20the%20Gospel.md)

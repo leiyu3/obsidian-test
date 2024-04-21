@@ -9,11 +9,11 @@ Then for 2 years tutored high school Math and Physics at Tutor Doctor.
 Then went into private tutoring for the last 2 year.
 And have tutored over a dozen students.
 
-[[./Mathematics|Math]]
-[[../../Physics|Physics]]
+[Math](./Mathematics.md)
+[Physics](../../Physics.md)
 
-## [[./School Resources|School Resources]]
-## [[../../My View on Tutoring|My View on Tutoring]]
+## [School Resources](./School%20Resources.md)
+## [My View on Tutoring](../../My%20View%20on%20Tutoring.md)
 
 ## What is My Set Up?
 
