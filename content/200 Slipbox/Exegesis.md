@@ -93,7 +93,7 @@ We do this by understanding the historical context, and textual context.
 * a good translation
 * good commentaries
 - Mortimer J.Adler's *How to Read a Book**
-- [[./How to Read the Bible for All Its Worth by Gorden D. Fee|How to Read the Bible for All Its Worth by Gorden D. Fee]]
+- [How to Read the Bible for All Its Worth by Gorden D. Fee](./How%20to%20Read%20the%20Bible%20for%20All%20Its%20Worth%20by%20Gorden%20D.%20Fee.md)
 
 ### Note
-Most textbooks interchange the definition of [[Exegesis|Exegesis]] and [[./Hermeneutics|Hermeneutics]]
+Most textbooks interchange the definition of [Exegesis](Exegesis.md) and [Hermeneutics](./Hermeneutics.md)
