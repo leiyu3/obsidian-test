@@ -392,7 +392,7 @@ To love someone even if they are unlovable. You love yourself also simply becaus
 
 
 ### 8. The Great Sin
-[[Pride|Pride]] or self-conceit vs Humility. The great distinction between Christian Moral and all other morals
+[Pride](Pride.md) or self-conceit vs Humility. The great distinction between Christian Moral and all other morals
 
 This is the centre of the Christian Moral. The complete anti-God state of mind
 
