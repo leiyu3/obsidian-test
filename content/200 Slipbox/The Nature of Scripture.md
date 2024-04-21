@@ -5,7 +5,7 @@ title: The Nature of Scripture
 publish: true
 ---
 
-The Bible is at the same time **both** human and divine ([[Jesus|Jesus?]])
+The Bible is at the same time **both** human and divine ([[../../Jesus|Jesus?]])
 
 > [!Quote]
 > "The Bible is the Word of God given in the words of people in history." 
